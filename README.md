@@ -2,6 +2,7 @@
 A blogging application for iOS devices:
 
 This app lets users write blog posts along with a featured image. They can also view blog articles from all around the world by different users.
+Uses AI to generate 20-word summaries of articles.
 
 
 
